@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	margin:0;
+}
+.container{
+	height:600px;
+	width:400px;
+	background-color:#F1F1F1;
+	margin-inline:auto;
+/* 	display:flex;
+	justify-content:center;
+	margin-inline:auto; */
+}
+img{
+   margin-top:50px;
+	margin-inline:50px;
+}
+.para{
+	text-align:center;
+	padding-inline:50px;
+}
+h1{
+	font-size:50px;
+	font-weight:900;
+}
+p{
+	font-size:30px;
+	font-weight:900;
+}
+button{
+	font-size:30px;
+	font-weight:400;
+	color:white;
+	background-color:rgb(254,98,90);
+	border-radius:20px;
+	padding:20px;
+	height:70px;
+	margin-top:20px;
+	border:none;
+}
